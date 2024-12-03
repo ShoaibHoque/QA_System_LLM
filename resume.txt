@@ -1,0 +1,60 @@
+
+Name: Shoaib Hoque
+Contact: shoaibhoque@gmail.com, +880 1681855181
+LinkedIn: https://www.linkedin.com/in/shoaib-hoque-2bb20314b/
+GitHub: https://github.com/ShoaibHoque
+
+OBJECTIVE:
+With a solid foundation in Python programming, data analysis, and model building, I am a certified data scientist passionate about transforming data into actionable insights.
+
+WORK EXPERIENCE:
+1. Data Science Consultant at Rubixe (Oct 2023 – May 2024)
+   - Achieved 95% accuracy in ML models like Decision Trees and XGBoost.
+   - Delivered projects on Logistic Regression and Multiple Linear Regression.
+
+2. Data Analytics Trainee at NOGOR Solutions Ltd. (May 2023 – Oct 2023)
+   - Developed predictive models and optimized data processes.
+   - Designed custom Python scripts for advanced analysis.
+
+3. Data Science Intern at Somikoron Ai (Jan 2024 – Jun 2024)
+   - Built a News Alert API Handler with NLP.
+   - Performed web scraping using Beautiful Soup and Selenium.
+
+EDUCATION:
+1. Post Graduate Diploma in Data Science, United International University, Dhaka (Jan 2023 – Oct 2023)
+2. Bachelor in Science - Computer Science Engineering, Shanto Mariam University of Creative Technology (May 2018 – Dec 2022)
+
+CERTIFICATIONS:
+- Google Advanced Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- IABAC Certified Data Scientist
+- Datamites Certified Data Scientist
+
+TECHNICAL SKILLS:
+- Python, SQL, Machine Learning (Regression, Classification, ANN, CNN, LSTM, NLP, LLM)
+- Data Visualization (Power BI, Tableau)
+- Web Scraping (BeautifulSoup, Selenium)
+
+PROJECTS:
+1. ITSM Process Improvement (Rubixe Project)
+   - Predicted high-priority tickets using ML algorithms with 89% accuracy.
+
+2. Employee Performance Analysis (IABAC Project)
+   - Achieved 93.75% accuracy in employee performance predictions.
+
+3. Falcon 9 Landing Prediction (IBM Project)
+   - Developed models with 83.33% accuracy for landing outcome predictions.
+
+LANGUAGES:
+- English (Professional Working Proficiency)
+- Bengali (Native Proficiency)
+- Arabic (Professional Proficiency)
+
+VOLUNTEERING ACTIVITIES:
+- Organized programs at SMUCT CSE Dept for four years.
+- Cultural and Marketing Organizer at Shanto Mariam University CSE Committee (2019-2021).
+- Delivered stage performances and presentations.
+- Created and shared educational content on data science (demo links available upon request).
+- Winner, International Center for Bengali Music (2020)
+- First place, Poster Presentation, SMUCT IT Festival (2019).
+- Runners-up, Programming Contest, SMUCT IT Festival (2019).
