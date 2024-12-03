@@ -8,21 +8,21 @@ OBJECTIVE:
 With a solid foundation in Python programming, data analysis, and model building, I am a certified data scientist passionate about transforming data into actionable insights.
 
 WORK EXPERIENCE:
-1. Data Science Consultant at Rubixe (Oct 2023 – May 2024)
+1. Data Science Consultant at Rubixe (from Oct 2023 to May 2024)
    - Achieved 95% accuracy in ML models like Decision Trees and XGBoost.
    - Delivered projects on Logistic Regression and Multiple Linear Regression.
 
-2. Data Analytics Trainee at NOGOR Solutions Ltd. (May 2023 – Oct 2023)
+2. Data Analytics Trainee at NOGOR Solutions Ltd. (from May 2023 to Oct 2023)
    - Developed predictive models and optimized data processes.
    - Designed custom Python scripts for advanced analysis.
 
-3. Data Science Intern at Somikoron Ai (Jan 2024 – Jun 2024)
+3. Data Science Intern at Somikoron Ai (from Jan 2024 to Jun 2024)
    - Built a News Alert API Handler with NLP.
    - Performed web scraping using Beautiful Soup and Selenium.
 
 EDUCATION:
-1. Post Graduate Diploma in Data Science, United International University, Dhaka (Jan 2023 – Oct 2023)
-2. Bachelor in Science - Computer Science Engineering, Shanto Mariam University of Creative Technology (May 2018 – Dec 2022)
+1. Post Graduate Diploma in Data Science, United International University, Dhaka (from Jan 2023 to Oct 2023)
+2. Bachelor in Science - Computer Science Engineering, Shanto Mariam University of Creative Technology (from May 2018 to Dec 2022)
 
 CERTIFICATIONS:
 - Google Advanced Data Analytics Professional Certificate
@@ -52,7 +52,7 @@ LANGUAGES:
 
 VOLUNTEERING ACTIVITIES:
 - Organized programs at SMUCT CSE Dept for four years.
-- Cultural and Marketing Organizer at Shanto Mariam University CSE Committee (2019-2021).
+- Cultural and Marketing Organizer at Shanto Mariam University CSE Committee (from 2019 to 2021).
 - Delivered stage performances and presentations.
 - Created and shared educational content on data science (demo links available upon request).
 - Winner, International Center for Bengali Music (2020)
